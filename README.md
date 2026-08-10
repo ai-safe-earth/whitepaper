@@ -1,1 +1,1 @@
-# dialogoo-whitepaper
+# whitepaper
